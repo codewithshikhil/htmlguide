@@ -2,7 +2,7 @@
 
 HTML: HYPER TEXT MARKUP LANGUAGE
 
-HTNL is the code that is used to structure a web-page and it's content are called HTML Tags.
+HTML is the code that is used to structure a web-page and it's content are called HTML Tags.
 
 HTML Tag: It is a container that contain some content or some other html tags
 
