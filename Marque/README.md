@@ -19,8 +19,8 @@ It is used to move the text in any direction
 
 It is used to link pages or webpages
 
-<a href="www.google.co.in">Google </a>
+<a href="https://www.google.co.in/">Google </a>
 
 ```
-<a href="www.google.co.in">Google </a>
+<a href=https://www.google.co.in/">Google </a>
 ```
